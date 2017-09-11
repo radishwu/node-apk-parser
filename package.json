@@ -1,7 +1,7 @@
 {
   "name": "@youzan/app-parser",
   "description": "ipa apk parser",
-  "version": "0.1.10",
+  "version": "0.2.0",
   "homepage": "https://github.com/radishwu/node-apk-parser",
   "author": "Monster <wushiminm@gmail.com>",
   "repository": {
@@ -32,5 +32,8 @@
     "apk",
     "ios",
     "ipa"
-  ]
+  ],
+  "dependencies": {
+    "ipa-metadata": "^1.4.0"
+  }
 }

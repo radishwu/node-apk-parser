@@ -1,4 +1,4 @@
-#apk result
+#apk/ipa result
 ```js
     {
         packageName : packageName,
